@@ -1,2 +1,4 @@
-# wemake-task
-Test assignment from wemake.services
+# Test assignment for wemake.services
+Deployed app is here: http://wemake.fa78.ru/
+
+Implemented with `python3.5`.
